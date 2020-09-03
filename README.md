@@ -1,2 +1,2 @@
 # formularioreativobasico
-Formulário  Simple  do tipo Reactive Forms com Angular
+Formulário  Simples  do tipo Reactive Forms com Angular
